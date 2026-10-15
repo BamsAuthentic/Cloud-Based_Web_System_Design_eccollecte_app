@@ -1,0 +1,21 @@
+// Suggestions de quartiers de Bangui (la saisie libre reste possible).
+export const NEIGHBORHOODS = [
+  'Benz-Vi',
+  'Boy-Rabe',
+  'Cantonnier',
+  'Castors',
+  'Combattant',
+  'Fou',
+  'Galabadja',
+  'Gobongo',
+  'Kina',
+  'Kodjo',
+  'Lakouanga',
+  'Landja',
+  'Miskine',
+  'Ngaragba',
+  'Ouango',
+  'Pétévo',
+  'PK5 (Kilomètre 5)',
+  'Sica',
+];
